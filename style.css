@@ -1,0 +1,147 @@
+.main{
+	border:2px solid red;
+	padding: 2%;
+	margin: 2%;
+}
+a{
+	word-wrap: break-word;
+}
+.main{
+	display: flex;
+	flex-direction: row;
+}
+.left{
+	border: 2px solid blue;
+	padding: 2%;
+	margin: 2%;
+	border-radius: 10%;
+	text-align:center;
+	width: 40%;
+	background-color: yellow;
+}
+.left img{
+	width: 40%;
+	border-radius:50%;
+	border: 2px solid yellow;
+	box-shadow: 12px 20px 18px purple; 
+}
+.right{
+	border: 2px solid green;
+	padding: 2%;
+	margin: 2%;
+	width: 60%;
+    background-color: cyan;
+    border-radius: 10%;
+}
+#number{
+	color:cyan;
+	border: 2px solid red;
+	
+}
+a{
+	word-wrap: break-word;
+}
+
+@media only screen and (min-width:320px) and (max-width:480px){
+
+.main{
+	border:2px solid red;
+	padding: 2%;
+	margin: 2%;
+}
+.table1{
+	width: 90%;
+	overflow-x:auto;
+}
+a{
+	word-wrap: break-word;
+}
+.main{
+	display: flex;
+	flex-direction: column;
+}
+.left{
+	border: 2px solid blue;
+	padding: 2%;
+	margin: 2%;
+	border-radius: 10%;
+	text-align:center;
+	width: 40%;
+	background-color: green;
+}
+.left img{
+	width:40%;
+	border-radius:40%;
+	border: 2px solid yellow;
+	box-shadow: 14px 16px 18px purple ; 
+}
+.right{
+	border: 2px solid green;
+	padding: 2%;
+	margin: 2%;
+	width:60%;
+	border-radius: 10;
+	background-color: red;
+}
+#number{
+	color:cyan;
+	border: 2px solid red;
+	padding: 2%;
+	margin: 2%;
+}
+a{
+	word-wrap: break-word;
+}
+}
+@media only screen and (min-width:320px) and (max-width:480px){
+
+.main{
+	border:2px solid red;
+	padding: 2%;
+	margin: 2%;
+}
+.table1{
+	width: 90%;
+	overflow-x:auto;
+}
+a{
+	word-wrap: break-word;
+}
+.main{
+	display: flex;
+	flex-direction: column;
+}
+.left{
+	border: 2px solid blue;
+	padding: 2%;
+	margin: 2%;
+	border-radius: 10%;
+	text-align:center;
+	width: 40%;
+	background-color: cyan;
+}
+.left img{
+	width:40%;
+	border-radius:40%;
+	border: 2px solid yellow;
+	box-shadow: 14px 16px 18px purple ; 
+}
+.right{
+	border: 2px solid green;
+	padding: 2%;
+	margin: 2%;
+	width:60%;
+	border-radius: 10;
+	background-color: gray;
+}
+#number{
+	color:cyan;
+	border: 2px solid red;
+	padding: 2%;
+	margin: 2%;
+}
+a{
+	word-wrap: break-word;
+}
+}
+

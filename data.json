@@ -1,0 +1,58 @@
+{
+	"details":{
+		"image":"koala.jpg",
+		"name":"karthik",
+		"phoneno":"+91-9502867592",
+		"email":"kaveripunnavalli@gmail.com",
+		"address":"vignan's nirula college,guntur."
+	},
+	"career":{
+		"info":"to do govt job."
+
+	},
+	
+	"education":[
+		{
+		"qualification":"B.tech",
+		"institute":"vignan's nirula college",
+		"year":"2016-2020",
+		"percentage":"80%."
+	},
+	{
+		"qualification":"inter",
+		"institute":"srichaitanya college",
+		"year":"2014-2016",
+		"percentage":"94%."
+	},
+	{
+		"qualification":"ssc",
+		"institute":"kerala model school",
+		"year":"2014",
+		"percentage":"85%."
+	}
+],
+
+	"skills":[{
+		"title":"programming languages",
+		"info":["c","c++","java","python"]
+	},
+	{
+		"title":"databases",
+		"info":["oracle","sql","mysql"]
+	},
+	{
+		"title":"operating systems",
+		"info":["unix","windows","mac"]
+	}
+],
+	"achievements":[{
+		"title":"first prize in group discussions"
+			},
+	{
+		"title":"participated in national level sports"
+	},
+	{
+		"title":"participated in essay writting"
+	}
+	]
+		}
